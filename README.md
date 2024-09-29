@@ -15,7 +15,7 @@ I'm Nam and I'm working as a Software Engineer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" width="48"/>
-  <span>(not a language)</span>
+  <span>(not a programming language)</span>
 </section>
 
 <!--
