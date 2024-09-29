@@ -10,12 +10,12 @@ I'm Nam and I'm working as a Software Engineer
 
 ### 🧰 Languages and Tools:
 <section align="left">
-  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/javascript/javascript_32x32.png">
-  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/css/css_32x32.png">
-  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/html/html_48x48.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" width="48"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" width="48"/>
   <span>(not a language)</span>
-  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/python/python_32x32.png">
-  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/cpp/cpp_32x32.png">
 </section>
 
 <!--
